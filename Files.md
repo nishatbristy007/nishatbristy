@@ -4,4 +4,4 @@ title: Files
 permalink: /Files/
 ---
 
-[My Resume](CV_Nishat_Anjum_Bristy.pdf)
+1. [My Resume](CV_Nishat_Anjum_Bristy.pdf)
