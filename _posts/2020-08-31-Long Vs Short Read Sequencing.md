@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Will long read sequencing technologies replace short read sequencing technologies in the next ten years?"
