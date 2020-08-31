@@ -4,4 +4,5 @@ title:  "Will long read sequencing technologies replace short read sequencing te
 date:   2020-08-31 17:21:41 +0600
 categories: jekyll update
 ---
-[Will long read sequencing technologies replace short read sequencing technologies in the next ten years?] (Sanger_Prize_Competition_2020_Essay_Nishat Anjum Bristy.pdf)
+
+[Will long read sequencing technologies replace short read sequencing technologies in the next ten years?](Sanger_Prize_Competition_2020_Essay_Nishat Anjum Bristy.pdf)
